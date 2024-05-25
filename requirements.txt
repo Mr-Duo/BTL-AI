@@ -1,0 +1,8 @@
+matplotlib
+numpy
+pandas
+seaborn
+torch
+gymnasium
+ipython
+pillow
