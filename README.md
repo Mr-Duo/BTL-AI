@@ -24,8 +24,8 @@ pip install notebook
 ```
 **2. Clone the repository and install requirements:**
 ```bash
-git clone https://github.com/Mr-Duo/BTL-ATTT
-cd BTL-ATT
+git clone https://github.com/Mr-Duo/BTL-AI
+cd BTL-AI
 pip install -r requirements.txt
 ```
 
